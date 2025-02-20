@@ -24,7 +24,6 @@ coverage
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
 *.sw?
 
 *.tsbuildinfo
@@ -66,8 +65,6 @@ out/
 .env
 *.secret
 secrets.json
-appsettings.Development.json
-appsettings.Local.json
 
 # Arquivos do Resharper
 _ReSharper*/
