@@ -4,6 +4,8 @@
 
 This project builds a book catalog and allows filtering its data on a web page.
 
+[Demonstration video](https://youtu.be/T8g4CnnqaV0)
+
 ## Running the project
 
 **Starting SQL Server**
@@ -49,5 +51,3 @@ GO
 **Running Frontend**
 
 - `cd src/frontend && npm run dev`
-
-[Demonstration video](https://youtu.be/T8g4CnnqaV0)
